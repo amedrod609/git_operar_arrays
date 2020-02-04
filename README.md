@@ -1,0 +1,1 @@
+# git_operar_arrays
